@@ -98,7 +98,7 @@ import {
     return (
       <SafeAreaView style={styles.safe}>
         <View style={styles.container}>
-          <Text style={styles.title}>Tesla Manual RAG</Text>
+          <Text style={styles.title}>TeslAsk</Text>
   
           <TextInput
             style={styles.input}

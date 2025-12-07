@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tesla-rag-app",
-    "slug": "tesla-rag-app",
+    "name": "TeslAsk",
+    "slug": "teslask",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
